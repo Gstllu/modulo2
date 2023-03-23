@@ -1,0 +1,22 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    margin-top: 4vw;
+    
+}
+
+.carru{
+    width: 30%;
+}
+
+.list-group-item:hover{
+    background-color: aqua;
+}
